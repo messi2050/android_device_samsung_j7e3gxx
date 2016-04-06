@@ -1,0 +1,2 @@
+add_lunch_combo cm_j7e3gxx-eng
+add_lunch_combo cm_j7e3gxx-userdebug
